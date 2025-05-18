@@ -1,0 +1,3 @@
+Expressões Lambda
+
+Expressões Lambdas são como arquivos zip de pastas. Você cria um código mais compacto tirando dele, argumentos que não precisam estar, principalmente para esses tipos de expressões. Ela não necessita de um nome, tipo de retorno ou modificador de acesso. É possivel usar restrições com interfaces funcionais usando o pacote function ou usando pacote stream.

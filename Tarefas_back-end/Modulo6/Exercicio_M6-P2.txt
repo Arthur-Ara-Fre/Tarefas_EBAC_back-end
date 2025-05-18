@@ -1,0 +1,22 @@
+1.Acordo com o meu despertador as 5 da manhã;
+2.pego o celular;
+3.desligo o despertador;
+4.se eu estiver com sono;
+	1.mexo no celular por 10 minutos;
+5.levanto da cama;
+6.saio do meu quarto;
+7.se a chave do quarto do computador estiver no lugar de sempre;
+	1.pego ela;
+8.vou para o quarto do computador no fundo da casa;
+9.destranco a porta do quarto do computador usando a chave;
+10.abro a porta;
+11.vou ate o computador;
+12.ligo a régua de tomada;
+13.ligo a fonte do computador;
+14.ligo a tv;
+15.ligo o computador;
+16.sento na cadeira;
+17.começo a estudar;
+18.espero uma hora para tomar café da manhã;
+
+	

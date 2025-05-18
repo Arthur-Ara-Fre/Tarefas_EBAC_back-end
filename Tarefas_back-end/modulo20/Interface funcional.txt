@@ -1,0 +1,1 @@
+Uma Interface funcional pode ter métodos default e static, mas deve ter somente um método abstrato. Nem mais, nem menos.
